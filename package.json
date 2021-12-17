@@ -1,0 +1,10 @@
+{
+    "name": "project",
+    "description": "my first cypress project",
+    "authors": "praba@gmail.com",
+    "version": "1.0.0",
+    "main": "pathToMain",
+    "dependencies": {
+        "cypress": "^9.1.1"
+    }
+}
